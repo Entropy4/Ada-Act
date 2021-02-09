@@ -2,7 +2,7 @@
 Code and Data Repository for Ada-Act research paper 
 
 ## Overview
-This repository contains all the code and data obtained from 14 data-sets which were used in the paper Ada-Act: Adapting Activations from Data
+This repository contains all the code and data obtained from 14 data-sets which were used in the paper *_Ada-Act: Adapting Activations from Data_*
 
 ## Data-sets used
 * Ionosphere
