@@ -29,3 +29,4 @@ This repository contains all the code and data obtained from 14 data-sets which 
 
 * Best 5 runs per data-set per benchmark model, their means and standard deviations
 * ~30 runs per Ada-Act data-set model, total mean/SD and best 5 mean/SD
+* Graphs inspecting gradients via weight distributions, model accuracy, model loss, and parameter learning
